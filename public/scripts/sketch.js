@@ -21,7 +21,9 @@ function displayDot(x, y, color, color2 = 100){
 
 function draw() {
 }
-
+function mousePressed(){
+	mouseDragged()
+}
 function mouseDragged() {
 	clr += 1
 	clr = upgradeColor(clr)

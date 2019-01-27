@@ -3,7 +3,7 @@
 Creating of a local server. Hosting a shared, collaborative drawing canvas. 
 Brodcasting messegas between clients and the server using node, express, p5.js and socket.io.
 
-To run this code
+To run this code:
 1. Download source.
 2. Open directory in terminal.
 3. ```$ node server.js```
